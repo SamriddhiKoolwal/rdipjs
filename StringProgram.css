@@ -1,0 +1,29 @@
+input
+{
+	height: 25px;
+	width: 300px;
+  border-radius: 5px;
+  
+}
+#result1{
+  background-color: yellow;
+}
+button{
+  border-radius: 5px;
+  background-color: gray;
+  height: 25px;
+  width: 300px;
+}
+.box
+{
+	height: 589px;
+	width: 400px;
+	background-color: black;
+	margin: 0px auto;
+	opacity: .7;
+	color: white;
+	padding: 20px;
+}
+h2{
+  text-align: center;
+}
